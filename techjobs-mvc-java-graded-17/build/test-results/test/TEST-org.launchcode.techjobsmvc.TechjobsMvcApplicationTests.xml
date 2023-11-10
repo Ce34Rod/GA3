@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.launchcode.techjobsmvc.TechjobsMvcApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-11-10T01:42:28" hostname="Captains-MBP.lan" time="0.001">
+  <properties/>
+  <testcase name="contextLoads()" classname="org.launchcode.techjobsmvc.TechjobsMvcApplicationTests" time="0.001"/>
+  <system-out><![CDATA[2023-11-09T19:42:28.651-06:00  INFO 43354 --- [    Test worker] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [org.launchcode.techjobsmvc.TechjobsMvcApplicationTests]: TechjobsMvcApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-11-09T19:42:28.652-06:00  INFO 43354 --- [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration org.launchcode.techjobsmvc.TechjobsMvcApplication for test class org.launchcode.techjobsmvc.TechjobsMvcApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.0)
+
+2023-11-09T19:42:28.662-06:00  INFO 43354 --- [    Test worker] o.l.t.TechjobsMvcApplicationTests        : Starting TechjobsMvcApplicationTests using Java 17.0.8 with PID 43354 (started by cesar in /Users/cesar/projects/techjobs-mvc-java-graded-17)
+2023-11-09T19:42:28.662-06:00  INFO 43354 --- [    Test worker] o.l.t.TechjobsMvcApplicationTests        : No active profile set, falling back to 1 default profile: "default"
+2023-11-09T19:42:28.738-06:00  INFO 43354 --- [    Test worker] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2023-11-09T19:42:28.757-06:00  INFO 43354 --- [    Test worker] o.l.t.TechjobsMvcApplicationTests        : Started TechjobsMvcApplicationTests in 0.102 seconds (process running for 2.012)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

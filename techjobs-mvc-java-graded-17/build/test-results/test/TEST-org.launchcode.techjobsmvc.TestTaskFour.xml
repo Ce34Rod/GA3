@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.launchcode.techjobsmvc.TestTaskFour" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-11-10T01:42:28" hostname="Captains-MBP.lan" time="0.051">
+  <properties/>
+  <testcase name="testFourthSearchTestCase()" classname="org.launchcode.techjobsmvc.TestTaskFour" time="0.019"/>
+  <testcase name="testSecondSearchTestCase()" classname="org.launchcode.techjobsmvc.TestTaskFour" time="0.005"/>
+  <testcase name="testSearchResultsLoad()" classname="org.launchcode.techjobsmvc.TestTaskFour" time="0.004"/>
+  <testcase name="testFifthSearchTestCase()" classname="org.launchcode.techjobsmvc.TestTaskFour" time="0.008"/>
+  <testcase name="testFirstSearchTestCase()" classname="org.launchcode.techjobsmvc.TestTaskFour" time="0.005"/>
+  <testcase name="testThirdSearchTestCase()" classname="org.launchcode.techjobsmvc.TestTaskFour" time="0.006"/>
+  <system-out><![CDATA[2023-11-09T19:42:28.760-06:00  INFO 43354 --- [    Test worker] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [org.launchcode.techjobsmvc.TestTaskFour]: TestTaskFour does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-11-09T19:42:28.762-06:00  INFO 43354 --- [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration org.launchcode.techjobsmvc.TechjobsMvcApplication for test class org.launchcode.techjobsmvc.TestTaskFour
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

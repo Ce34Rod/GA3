@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.launchcode.techjobsmvc.TestTaskTwo" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-11-10T01:42:27" hostname="Captains-MBP.lan" time="0.72">
+  <properties/>
+  <testcase name="testJobListingLoads()" classname="org.launchcode.techjobsmvc.TestTaskTwo" time="0.621"/>
+  <testcase name="testViewAllLinkExists()" classname="org.launchcode.techjobsmvc.TestTaskTwo" time="0.057"/>
+  <testcase name="testJobListingDisplaysAllJobFields()" classname="org.launchcode.techjobsmvc.TestTaskTwo" time="0.016"/>
+  <testcase name="testJobListingDisplaysAllRelevantJobs()" classname="org.launchcode.techjobsmvc.TestTaskTwo" time="0.011"/>
+  <testcase name="testJobListingUsesCSSClass()" classname="org.launchcode.techjobsmvc.TestTaskTwo" time="0.007"/>
+  <testcase name="testJobListingUsesTable()" classname="org.launchcode.techjobsmvc.TestTaskTwo" time="0.005"/>
+  <system-out><![CDATA[19:42:27.161 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [org.launchcode.techjobsmvc.TestTaskTwo]: TestTaskTwo does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+19:42:27.210 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration org.launchcode.techjobsmvc.TechjobsMvcApplication for test class org.launchcode.techjobsmvc.TestTaskTwo
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.0)
+
+2023-11-09T19:42:27.385-06:00  INFO 43354 --- [    Test worker] org.launchcode.techjobsmvc.TestTaskTwo   : Starting TestTaskTwo using Java 17.0.8 with PID 43354 (started by cesar in /Users/cesar/projects/techjobs-mvc-java-graded-17)
+2023-11-09T19:42:27.385-06:00  INFO 43354 --- [    Test worker] org.launchcode.techjobsmvc.TestTaskTwo   : No active profile set, falling back to 1 default profile: "default"
+2023-11-09T19:42:27.837-06:00  INFO 43354 --- [    Test worker] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2023-11-09T19:42:27.904-06:00  INFO 43354 --- [    Test worker] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-11-09T19:42:27.905-06:00  INFO 43354 --- [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-11-09T19:42:27.907-06:00  INFO 43354 --- [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-11-09T19:42:27.920-06:00  INFO 43354 --- [    Test worker] org.launchcode.techjobsmvc.TestTaskTwo   : Started TestTaskTwo in 0.648 seconds (process running for 1.176)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
